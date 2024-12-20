@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/Travel-journal/static/css/main.6613237a.css",
-    "main.js": "/Travel-journal/static/js/main.676092df.js",
-    "static/media/geirangerfjord.png": "/Travel-journal/static/media/geirangerfjord.4ee586bb1a23dc56c2fb.png",
-    "static/media/MountFuji.png": "/Travel-journal/static/media/MountFuji.ab2fcc45975b1d023b64.png",
-    "static/media/sydney.png": "/Travel-journal/static/media/sydney.7f45e7c85ef633072767.png",
-    "static/media/global.png": "/Travel-journal/static/media/global.29946c45f51e53334de3.png",
-    "static/media/location.png": "/Travel-journal/static/media/location.6e61b939bf426efa4193.png",
-    "index.html": "/Travel-journal/index.html",
-    "main.6613237a.css.map": "/Travel-journal/static/css/main.6613237a.css.map",
-    "main.676092df.js.map": "/Travel-journal/static/js/main.676092df.js.map"
+    "main.css": "/traveljournal/static/css/main.6613237a.css",
+    "main.js": "/traveljournal/static/js/main.706a821b.js",
+    "static/media/geirangerfjord.png": "/traveljournal/static/media/geirangerfjord.4ee586bb1a23dc56c2fb.png",
+    "static/media/MountFuji.png": "/traveljournal/static/media/MountFuji.ab2fcc45975b1d023b64.png",
+    "static/media/sydney.png": "/traveljournal/static/media/sydney.7f45e7c85ef633072767.png",
+    "static/media/global.png": "/traveljournal/static/media/global.29946c45f51e53334de3.png",
+    "static/media/location.png": "/traveljournal/static/media/location.6e61b939bf426efa4193.png",
+    "index.html": "/traveljournal/index.html",
+    "main.6613237a.css.map": "/traveljournal/static/css/main.6613237a.css.map",
+    "main.706a821b.js.map": "/traveljournal/static/js/main.706a821b.js.map"
   },
   "entrypoints": [
     "static/css/main.6613237a.css",
-    "static/js/main.676092df.js"
+    "static/js/main.706a821b.js"
   ]
 }
